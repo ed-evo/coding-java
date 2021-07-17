@@ -1,0 +1,39 @@
+it/lysz210/interfaces/age/v2/Persona.java
+ it.lysz210.interfaces.age.v2.Persona
+it/lysz210/interfaces/age/v2/EssereVivente.java
+ it.lysz210.interfaces.age.v2.EssereVivente
+it/lysz210/interfaces/age/v1/PersonaImpl.java
+ it.lysz210.interfaces.age.v1.PersonaImpl
+it/lysz210/enumeration/Main.java
+ it.lysz210.enumeration.Main
+it/lysz210/interfaces/age/v2/Albero.java
+ it.lysz210.interfaces.age.v2.Albero
+it/lysz210/interfaces/age/v2/Pianta.java
+ it.lysz210.interfaces.age.v2.Pianta
+it/lysz210/interfaces/age/v2/PersonaImpl.java
+ it.lysz210.interfaces.age.v2.PersonaImpl
+it/lysz210/enumeration/State.java
+ it.lysz210.enumeration.State
+ it.lysz210.enumeration.State$Transition
+it/lysz210/enumeration/Attribute.java
+ it.lysz210.enumeration.Attribute
+it/lysz210/interfaces/age/v1/Persona.java
+ it.lysz210.interfaces.age.v1.Persona
+it/lysz210/interfaces/age/v3/EssereVivente.java
+ it.lysz210.interfaces.age.v3.EssereVivente
+it/lysz210/interfaces/age/v2/AgeExample.java
+ it.lysz210.interfaces.age.v2.AgeExample
+it/lysz210/interfaces/age/v3/PersonaImpl.java
+ it.lysz210.interfaces.age.v3.PersonaImpl
+it/lysz210/interfaces/age/v3/Persona.java
+ it.lysz210.interfaces.age.v3.Persona
+it/lysz210/interfaces/age/v1/AgeExample.java
+ it.lysz210.interfaces.age.v1.AgeExample
+it/lysz210/interfaces/age/v3/Albero.java
+ it.lysz210.interfaces.age.v3.Albero
+it/lysz210/interfaces/age/v3/Pianta.java
+ it.lysz210.interfaces.age.v3.Pianta
+it/lysz210/interfaces/age/v3/AgeScanner.java
+ it.lysz210.interfaces.age.v3.AgeScanner
+it/lysz210/interfaces/age/v3/AgeExample.java
+ it.lysz210.interfaces.age.v3.AgeExample
